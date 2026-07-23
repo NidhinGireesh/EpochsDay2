@@ -38,7 +38,7 @@ The Northwind database is a sample relational database representing a fictional 
 - SQL
 - Pandas
 - Matplotlib
-- Jupyter Notebook
+- google colab
 
 ---
 
@@ -47,9 +47,9 @@ The Northwind database is a sample relational database representing a fictional 
 ```
 northwind-sql-analysis/
 │
-├── Northwind.db
+├── northwind.db
 ├── queries.sql
-├── northwind_analysis.ipynb
+├── analysis.ipynb
 ├── README.md
 
 ```
@@ -168,9 +168,9 @@ Customers with high purchase frequency are valuable assets and suitable candidat
 
 | File | Description |
 |------|-------------|
-| `Northwind.db` | SQLite database |
+| `northwind.db` | SQLite database |
 | `queries.sql` | SQL queries used for analysis |
-| `northwind_analysis.ipynb` | SQL execution, Pandas analysis, and visualizations |
+| `analysis.ipynb` | SQL execution, Pandas analysis, and visualizations |
 | `README.md` | Project documentation |
 
 ---
